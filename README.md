@@ -9,6 +9,10 @@ const cv = {
     code: ["Javascript", "Python", "Java", "Swift", "PHP"],
     askMeAbout: ["web dev", "tech", "app dev", "photography"],
     technologies: {
+        blockchain-vexanium-eos: {
+            js: ["API", "DAPP"],
+            c++: ["smartcontract"],
+        },
         backEnd: {
             js: ["Node", "Fastify", "Express", "SuiteScript"],
         },
